@@ -37,4 +37,5 @@ A sample of each category messages:
     * Byebye
 
 The bot is accessible via Telegram app here: http://telegram.me/IranRecastBot
-    
+
+And, the Rails app deployed on Heroku here: https://iranrecastbot.herokuapp.com/
