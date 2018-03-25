@@ -1,24 +1,40 @@
-# README
+# Iran Recast.io Bot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's a simple bot Rails app developed using Recast.io. It can answer greetings, some simple question about Iran and goodbye. 
 
-Things you may want to cover:
+A sample of each category messages:
 
-* Ruby version
+- Greetings:
 
-* System dependencies
+    * Hi
 
-* Configuration
+    * Hello
 
-* Database creation
+    * Bonjour
 
-* Database initialization
+    * Good morning
 
-* How to run the test suite
+- Simple question about Iran:
 
-* Services (job queues, cache servers, search engines, etc.)
+    * What do you know about Iran?
 
-* Deployment instructions
+    * A fact about Iran
 
-* ...
+    * Show me a photo of Iran
+
+    * Another picture
+    
+    * Iran in a photo
+    
+    * Any video about Iran?
+    
+ - Goodbye:
+
+    * Ciao!
+
+    * See you
+
+    * Byebye
+
+The bot is accessible via Telegram app here: http://telegram.me/IranRecastBot
+    
