@@ -24,7 +24,7 @@ class MessagesController < ApplicationController
 
 
   def index
-      @messages = Message.all
+      @messages = Message.where conversation_id: session.id
   end
 
   private
