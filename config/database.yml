@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: IranBot_production
-  username: IranBot
-  password: <%= ENV['IRANBOT_DATABASE_PASSWORD'] %>
+  database: d1hnfcun77dbil
+  username: vaqmkafcukawzs
+  password: f79779762beb395bafa299da29eb29da9904f5427375343ead9d645b077edb37
